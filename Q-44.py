@@ -1,0 +1,3 @@
+from math import sqrt, factorial
+print(sqrt(36))
+print(factorial(4))
